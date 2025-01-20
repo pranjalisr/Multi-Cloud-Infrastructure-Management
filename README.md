@@ -20,7 +20,7 @@ Hey there, cloud enthusiasts! Welcome to multi-cloud infrastructure management p
 
 The project demonstrates how to set up a robust, multi-cloud infrastructure with unified monitoring and cost optimization strategies. It's designed to be easily expandable and customizable for different use cases.
 
-To implement the failover strategy, we're relying on the load balancers in each cloud provider to route traffic to healthy instances. If an instance or even an entire region in one cloud provider fails, traffic can be redirected to instances in other clouds.
+To implement the failover strategy, I'm relying on the load balancers in each cloud provider to route traffic to healthy instances. If an instance or even an entire region in one cloud provider fails, traffic can be redirected to instances in other clouds.
 
 For further improvements, you could consider:
 
