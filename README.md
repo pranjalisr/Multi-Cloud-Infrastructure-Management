@@ -1,13 +1,13 @@
 # 🌩️ Multi-Cloud Infrastructure Management
 
-Hey there, cloud enthusiasts! Welcome to our multi-cloud infrastructure management project. We're going to set up a robust infrastructure across AWS, Azure, and Google Cloud using Terraform, because why settle for just one cloud when you can have three? 😎
+Hey there, cloud enthusiasts! Welcome to multi-cloud infrastructure management project. Set up a robust infrastructure across AWS, Azure, and Google Cloud using Terraform, because why settle for just one cloud when you can have three? 😎
 
 ## 🎯 What's the goal?
 
 - Set up infrastructure across AWS, Azure, and Google Cloud
 - Create a unified dashboard for cross-cloud monitoring
 - Implement cost-optimization and failover strategies
-- Learn a ton and have fun doing it!
+
 
 ## 🛠️ Tools of the Trade
 
