@@ -1,0 +1,14 @@
+global:
+  scrape_interval: 15s
+
+scrape_configs:
+  - job_name: 'aws'
+    static_configs:
+      - targets: ['${aws_instance_ip}:80']
+  - job_name: 'azure'
+    static_configs:
+      - targets: ['${azure_vm_ip}:80']
+  - job_name: 'gcp'
+    static_configs:
+      - targets: ['${gcp_instance_ip}:80']
+
